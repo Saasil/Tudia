@@ -1,3 +1,3 @@
 <?php
-decho "Prueba";
+deho "Prueba";
 ?>

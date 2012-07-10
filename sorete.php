@@ -1,3 +1,0 @@
-<?php
-echso "asd";
-?>
