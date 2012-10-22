@@ -3,7 +3,7 @@
 <title>Tu dia!</title>
 </head>
 <body>
-<center><h1> Tú dia! </h1><br><br>
+<center><h1> Sorete Tú dia! </h1><br><br>
 <form method="post" action="comprobar.php">
 Ingresa tu nombre: <input type="text" name="nombre"><br>
 Ingresa tu contraseña: <input type="text" name="pass"><br>
